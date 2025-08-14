@@ -1,0 +1,2 @@
+# Analysis
+Here goes all your notes about research/analysis of the issues/common practices that concern this project. Organized notes are encouraged but not required, plus remember to add timestamps to your notes and cross sentences or paragraphs if something is no longer valid. 
